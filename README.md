@@ -9,7 +9,7 @@ Steps/flow of calling on V.ALRT
 3. Access token returns the SID of the TWIML App that points to the Voice Request URL to the outgoing call( /client-voice endpoint)
 4. [How to create a twiml app and obtain a SID](https://support.twilio.com/hc/en-us/articles/223180928-How-Do-I-Create-a-TwiML-App-)
 
-The mobile app follows the logic/process explained on this twilio sample regarding outgoing call
+The mobile app follows the logic/process explained on this twilio quickstart regarding outgoing call
 https://github.com/twilio/voice-quickstart-objc#quickstart
 
 Twilio endpoints used:
